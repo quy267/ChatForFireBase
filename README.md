@@ -1,2 +1,2 @@
 # ChatForFireBase
-Use FireBase for create Chat App
+Use FireBase for create Simple Chat App
